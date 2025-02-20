@@ -18,7 +18,7 @@ mdc: true
 
 # CSS - part 2/3
 Software Development Bootcamp - Circuit Stream
-- [ ] Utilize the CSS box model for website devlopment
+- [ ] Utilize the CSS box model for website development
 - [ ] Style text using CSS
 - [ ] Utilize classes to change different elements
 
