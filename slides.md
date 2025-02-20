@@ -196,7 +196,6 @@ class: text-left
 🍦 Cool Tips, Trends and Resources:
 - ⊞ [List of Block Elements vs Inline Elements](https://www.w3schools.com/html/html_blocks.asp)
 - 🎨 [Color Formats in CSS](https://www.joshwcomeau.com/css/color-formats/)
-- 🔠 [MixFont Pairing](https://www.mixfont.com/Yellowtail+Radley)
 - ⚠️ [CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
 - 💪 [Intro to FlexBox](https://www.youtube.com/watch?v=Vj7NZ6FiQvo&list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid)
 - 🏹 [Flexbox Zombies](https://mastery.games/post/flexboxzombies2/)
