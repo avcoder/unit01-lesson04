@@ -219,8 +219,8 @@ class: text-left
 
 - What is the point of adding classes to elements in an HTML file?
 - Recreate inbox found at: https://www.mixfont.com/Yellowtail+Radley
-- Modify look of elements with classes:
-Goto: https://codepen.io/codevilla/pen/NPWNxQm and attempt goals found in CSS comments
+- Modify look of elements with classes/IDs:
+https://codepen.io/codevilla/pen/NPWNxQm and attempt goals found in CSS comments
 
 <!-- 
 -->
