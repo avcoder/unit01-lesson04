@@ -32,6 +32,7 @@ Software Development Bootcamp - Circuit Stream
 TODO: fill in anchor href above to point to github repo for these slides
 - take attendance
 - verify previous zoom video uploaded
+- I updated my menu repo https://github.com/avcoder/css-temp2
 -->
 
 ---
