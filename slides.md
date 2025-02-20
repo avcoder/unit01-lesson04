@@ -98,7 +98,7 @@ transition: slide-left
 ---
 
 # Review of some CSS properties
-(10 min) Watch codepen.io demo as we go thru some of these
+(15 min) Watch codepen.io demo as we go thru some of these
 |                                                     |                             |
 | --------------------------------------------------- | --------------------------- |
 | Box related | `width height margin padding border` |
@@ -171,7 +171,7 @@ class: text-left
 ---
 
 # Exercise: Pseudo-classes
-(10 min)
+(15 min)
 
 - Pseudo-class `:hover` (see [others](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes))
 - Recreate the "Select a store" and "Kobo eBook" hover effects from this [Indigo page](https://www.indigo.ca/en-ca/more-peppa-5-minute-stories-peppa-pig/9781546124184.html)
@@ -215,7 +215,7 @@ class: text-left
 ---
 
 # Exercise: Types, Classes and IDs
-(20 min)
+(30 min)
 
 - What is the point of adding classes to elements in an HTML file?
 - Recreate inbox found at: https://www.mixfont.com/Yellowtail+Radley
@@ -230,7 +230,7 @@ transition: slide-left
 ---
 
 # Exercise: Boxes and Classes
-(45 min) Menu html repurposed:
+(remainder of time) Menu html repurposed:
 
 - Download repository https://github.com/avcoder/css-exercise-05
 - Use the below mockup and try to replicate as close as you can.  (I've included some basic styles.  Feel free to change it.)
